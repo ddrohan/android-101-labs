@@ -1,6 +1,6 @@
 # Summary
 
 * [introduction](README.md)
-   * Labs
+   * [Labs](labs.md)
 * SUMMARY
 
