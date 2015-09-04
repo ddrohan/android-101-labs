@@ -9,6 +9,6 @@
            * [Step 03](session1/lab/md/step03.md)
            * [Exercises](session1/lab/md/exercises.md)
        * Lab 02: Introduction to 'Donation'
-       * Lab 3: Donation 2.0 - Multi Screen App & Menus
+       * Lab 03: Donation 2.0 - Multi Screen App & Menus
 * SUMMARY
 
