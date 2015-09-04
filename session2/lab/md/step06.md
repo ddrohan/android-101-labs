@@ -1,4 +1,4 @@
-#NumberPicker
+#Step 06 - NumberPicker
 
 This is our reference documentation:
 
