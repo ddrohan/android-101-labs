@@ -1,4 +1,4 @@
-#Research + New Control Layout
+#Step 05 - Research + New Control Layout
 
 Recall the UI we are trying to implement:
 
