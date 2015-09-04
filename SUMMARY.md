@@ -8,5 +8,6 @@
            * [Step 02](step02.md)
            * [Step 03](step03.md)
            * [Exercises](exercises.md)
+           * Test
 * SUMMARY
 
