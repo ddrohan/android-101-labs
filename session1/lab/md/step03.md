@@ -1,4 +1,4 @@
-#Our version of "HelloWorld"
+#Step 03 - Our version of "HelloWorld"
 
 In this Step, you will be required to develop and run your own version of the "Hello World" Android Project from the lectures (as seen below).
 
