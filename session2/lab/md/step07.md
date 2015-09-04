@@ -1,4 +1,4 @@
-#Radio Button
+#Step 07 - Radio Button
 
 In donateButtonPressed we need to discover which payment method has been selected. Our RadioGroup documentation is here:
 
