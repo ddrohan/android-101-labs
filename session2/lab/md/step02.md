@@ -1,4 +1,4 @@
-#Layout Donation Activity
+#Step 02 - Layout Donation Activity
 
 For this lab, our objective is to produce an Android App that looks something like this:
 
