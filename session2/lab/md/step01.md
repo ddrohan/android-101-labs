@@ -1,4 +1,4 @@
-#Create Project
+#Step 01 - Create Project
 
 Create a new Android application, with the following properties:
 
