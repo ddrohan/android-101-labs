@@ -10,6 +10,7 @@
            * [Exercises](session1/lab/md/exercises.md)
        * Lab 02: Introduction to 'Donation'
        * Lab 03: Donation 2.0 - Multi Screen App & Menus
-       * Lab 04: Donation 3.0 - Donation Object Model 
+       * Lab 04: Donation 3.0 - Donation Object Model
+       * Lab 05: Donation 4.0 - Database/Application Support
 * SUMMARY
 
