@@ -1,6 +1,6 @@
-# Introduction
+# Introduction to Android Development
 
-![](images/webappdev.jpg)
+![](android101.jpg)
 
 This is where you can find all the labs for **Android 101**.
 
