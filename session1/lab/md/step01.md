@@ -1,4 +1,4 @@
-#Setup
+#Step 01 - Setup
 
 ##Instructions for working in Walton Building PC Labs:
 
