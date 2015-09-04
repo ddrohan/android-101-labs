@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [Labs](labs.md)
     * [Lab 01: Eclipse, Android & 'Hello World'](lab_01.md)
-        * [Objectives](session1/lab/md/objectives.md)
+         * [Objectives](session1/lab/md/objectives.md)
          * [Step 01](session1/lab/md/step01.md)
          * [Step 02](session1/lab/md/step02.md)
          * [Step 03](session1/lab/md/step03.md)
