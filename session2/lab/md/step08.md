@@ -14,7 +14,7 @@ These two methods are probably what we need:
 First we would need to equip our activity with the ability to remember the donation amounts:
 
 ~~~java
-  private int          totalDonated = 0;
+  private int totalDonated = 0;
 ~~~
 
 Lets set max progress bar to 10000 in onCreate:
