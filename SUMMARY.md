@@ -1,7 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [Labs](labs.md)
     * [Lab 01: Eclipse, Android & 'Hello World'](lab_01.md)
          * [Objectives](session1/lab/md/objectives.md)
          * [Step 01](session1/lab/md/step01.md)
