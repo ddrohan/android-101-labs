@@ -1,6 +1,6 @@
 #Objectives
 
-In this Lab, you will be required to build the first version of our Donation Case Study App , called <c1><b>donation-android-v1</b></c1>. We will build on this lab (and the Case Study) over the following weeks and add in some new features and UI Design along the way. In this version we will add in a few UI widgets on a single layout and implement some basic event handling.<br>On completion of this lab you'll be able to 
+In this Lab, you will be required to build the first version of our Donation Case Study App , called <c1><b>Donation.1.0</b></c1>. We will build on this lab (and the Case Study) over the following weeks and add in some new features and UI Design along the way. In this version we will add in a few UI widgets on a single layout and implement some basic event handling.<br>On completion of this lab you'll be able to 
 
 - design an initial layout for the app.
 
