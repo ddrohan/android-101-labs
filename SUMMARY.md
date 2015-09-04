@@ -8,7 +8,7 @@
            * [Step 02](session1/lab/md/step02.md)
            * [Step 03](session1/lab/md/step03.md)
            * [Exercises](session1/lab/md/exercises.md)
-       * Lab 02: Introduction to 'Donation'
+       * [Lab 02: Introduction to 'Donation'](lab_02.md)
        * Lab 03: Donation 2.0 - Multi Screen App & Menus
        * Lab 04: Donation 3.0 - Donation Object Model
        * Lab 05: Donation 4.0 - Database/Application Support
