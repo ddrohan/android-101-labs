@@ -1,4 +1,4 @@
-#First Android Project - "HelloWorld"
+#Step 02 - First Android Project - "HelloWorld"
 
 In Eclipse, select File->New->Other. Navigate to Android, and select "Android Application Project":
 
