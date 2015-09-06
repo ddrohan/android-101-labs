@@ -18,14 +18,14 @@
     * [Step 07](session2/lab/md/step07.md)
     * [Step 08](session2/lab/md/step08.md)
     * [Exercises](session2/lab/md/exercises.md)
-* Lab 03: Donation 2.0 - Multi Screen App & Menus
+* [Lab 03: Donation 2.0 - Multi Screen App & Menus](lab_03.md)
     * [Objectives](session3/lab/md/objectives.md)
     * [Step 01](session3/lab/md/step01.md)
     * [Step 02](session3/lab/md/step02.md)
     * [Step 03](session3/lab/md/step03.md)
     * [Step 04](session3/lab/md/step04.md)
     * [Solution](session3/lab/md/solution.md)
-* Lab 04: Donation 3.0 - Donation Object Model
+* [Lab 04: Donation 3.0 - Donation Object Model](lab_04.md)
     * [Objectives](session4/lab/md/objectives.md)
     * [Step 01](session4/lab/md/step01.md)
     * [Step 02](session4/lab/md/step02.md)
