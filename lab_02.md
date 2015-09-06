@@ -1,1 +1,1 @@
-# Lab 02 - Introduction to 'Donation'
+# Lab 02: Introduction to 'Donation'
