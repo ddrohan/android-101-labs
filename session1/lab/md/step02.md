@@ -6,7 +6,7 @@ In Eclipse, select File->New->Other. Navigate to Android, and select "Android Ap
 
 Press "Next" and then give the project a name: 'HelloWorld'
 
-It's recommended you change the default package name also, (but you can leave it as it is this time) and accept the rest of the defaults, on the remaining screens. 
+It's recommended you change the default package name also, (as in the screenshot) and accept the rest of the defaults, on the remaining screens. 
 
 ![](../img/08.png)
 
