@@ -9,7 +9,7 @@ Press "Next" and then give the project a name: 'HelloWorld'
 It's recommended you change the default package name also, (as in the screenshot) and accept the rest of the defaults, on the remaining screens. 
 
 ![](../img/08.png)
-
+ 
 You should choose An Empty Activity as your activity type
 
 ![](../img/activity.png)
