@@ -112,7 +112,7 @@ and our XML files will look like this:
 
 </RelativeLayout>
 ~~~
-Our 'strings.xml' file
+Our 'strings.xml' file....
 ~~~xml
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
