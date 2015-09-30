@@ -113,7 +113,7 @@ and our XML files will look like this:
 </RelativeLayout>
 ~~~
 
-~~~zml
+~~~xml
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
