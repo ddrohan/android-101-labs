@@ -35,6 +35,14 @@ NOTE : these downloads are quite large so it's advisable to have these versions 
 Finally, Add the following "New Software" in Eclipse to install the Eclipse ADT Plugin from
 
 - <https://dl-ssl.google.com/android/eclipse/>
+ 
+like so....
+
+![](../img/adt1.png)
+
+and then
+
+![](../img/adt2.png)
 
 Once installed, this will allow you to develop Android Apps in a similar manner to any other Eclipse Projects.
 
