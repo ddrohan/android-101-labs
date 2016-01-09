@@ -40,7 +40,7 @@ like so....
 
 ![](../img/adt1.png)
 
-and then
+and then "Add" a new site....
 
 ![](../img/adt2.png)
 
