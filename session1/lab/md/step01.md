@@ -24,15 +24,17 @@ Download and install the Android SDK from
 
 - <http://developer.android.com/sdk/index.html>
 
+and make sure you scroll down to the end of the page! 
+
 This download is actually the SDK Manager (not the full SDK), where you can choose which versions of the Android platform you want to install & develop with - select <b>Version 5.0 (or above, we'll leave 6.0 for the moment)</b>. 
 
 NOTE : these downloads are quite large so it's advisable to have these versions installed BEFORE class.
 
 ![](../img/sdk.png)
 
-Finally, Download and install the Eclipse ADT Plugin from
+Finally, Add the following "New Software" in Eclipse to install the Eclipse ADT Plugin from
 
-- <http://developer.android.com/sdk/installing/installing-adt.html>
+- <https://dl-ssl.google.com/android/eclipse/>
 
 Once installed, this will allow you to develop Android Apps in a similar manner to any other Eclipse Projects.
 
